@@ -1,4 +1,4 @@
-Welcome to GTA SA Hud!
+Welcome to GTA San Andreas Hud!
 ========
 <img src="http://i.imgur.com/Ubh6gbz.png" width="120">
 
