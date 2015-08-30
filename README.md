@@ -2,7 +2,7 @@ Welcome to GTA: San Andreas HUD!
 ========
 <img src="http://i.imgur.com/Ubh6gbz.png" width="120">
 
-# USE THIS FOR **EDUCATIONAL** PURPOSES ONLY!!
+# USE THIS FOR *EDUCATIONAL* PURPOSES ONLY!!
 
 
 ## Official Steam Workshop page
